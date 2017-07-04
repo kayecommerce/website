@@ -73,6 +73,10 @@ header {
 	line-height:70px;
 }
 
+#logo img {
+	margin:8px 0;
+}
+
 nav {
 	float:right;
 	line-height:70px;
