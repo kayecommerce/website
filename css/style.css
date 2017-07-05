@@ -35,6 +35,8 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	font-family: 'Amiko', sans-serif;
+
 }
 ol, ul {
 	list-style: none;
@@ -58,7 +60,6 @@ header {
 	height:70px;
 	background-color:#ffffff;
 	color: #231f20;
-	font-family: 'Amiko', sans-serif;
 }
 
 #header-center {
@@ -107,3 +108,33 @@ nav ul li {
 	background-color:#231f20;
 }
 
+#billboard h1 {
+	color:#ffffff;
+	font-size:48px;
+	text-align:center;
+	width:690px;
+	margin:0 auto;
+	padding:80px 0 0 0;
+}
+
+#billboard h2 {
+	color:#49b050;
+	font-size:24px;
+	width:640px;
+	margin:0 auto;
+	text-align:center;
+	padding:30px 0 0 0;
+}
+
+#billboard a.button {
+	width:230px;
+	margin:0 auto;
+	display:block;
+	padding:40px 0 0 0;
+	
+}
+
+#billboard img:hover {
+	opacity:0.4;
+	filter:alpha(opcaity=70);
+}
