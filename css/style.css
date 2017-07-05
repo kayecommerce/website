@@ -138,3 +138,30 @@ nav ul li {
 	opacity:0.4;
 	filter:alpha(opcaity=70);
 }
+
+#boxes {
+	width:1020px;
+	margin:0 auto;
+	
+}
+
+#boxes ul {
+	float:left;
+	margin-top:30px;
+	text-align:center;
+}
+
+#boxes ul li {
+	display:inline;
+	margin:30px 15px 0px 15px;
+	
+}
+.clear {
+	clear:both;
+	
+}
+
+#boxes img:hover {
+	opacity:0.4;
+	filter:alpha(opcaity=70);
+}
